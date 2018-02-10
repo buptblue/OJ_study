@@ -1,0 +1,3 @@
+C:/Users/Blue/CLionProjects/UVa227 Puzzle/cmake-build-debug/CMakeFiles/UVa227_Puzzle.dir
+C:/Users/Blue/CLionProjects/UVa227 Puzzle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blue/CLionProjects/UVa227 Puzzle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

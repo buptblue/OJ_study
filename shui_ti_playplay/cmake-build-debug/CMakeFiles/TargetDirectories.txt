@@ -1,0 +1,3 @@
+C:/Users/Blue/CLionProjects/shui_ti_playplay/cmake-build-debug/CMakeFiles/shui_ti_playplay.dir
+C:/Users/Blue/CLionProjects/shui_ti_playplay/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blue/CLionProjects/shui_ti_playplay/cmake-build-debug/CMakeFiles/rebuild_cache.dir

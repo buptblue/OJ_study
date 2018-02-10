@@ -1,0 +1,3 @@
+C:/Users/Blue/CLionProjects/bupt_oj_aplagame/cmake-build-debug/CMakeFiles/bupt_oj_aplagame.dir
+C:/Users/Blue/CLionProjects/bupt_oj_aplagame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blue/CLionProjects/bupt_oj_aplagame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

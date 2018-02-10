@@ -1,0 +1,3 @@
+C:/Users/Blue/CLionProjects/newcodenet juedou/cmake-build-debug/CMakeFiles/newcodenet_juedou.dir
+C:/Users/Blue/CLionProjects/newcodenet juedou/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blue/CLionProjects/newcodenet juedou/cmake-build-debug/CMakeFiles/rebuild_cache.dir

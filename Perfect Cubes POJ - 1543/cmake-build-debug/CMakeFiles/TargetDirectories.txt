@@ -1,0 +1,3 @@
+C:/Users/Blue/CLionProjects/Perfect Cubes POJ - 1543/cmake-build-debug/CMakeFiles/Perfect_Cubes_POJ___1543.dir
+C:/Users/Blue/CLionProjects/Perfect Cubes POJ - 1543/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blue/CLionProjects/Perfect Cubes POJ - 1543/cmake-build-debug/CMakeFiles/rebuild_cache.dir

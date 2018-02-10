@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Blue/CLionProjects/D - Browser CodeForces - 915B/D - Browser CodeForces - 915B.c
+stdio.h
+-
+math.h
+-
+

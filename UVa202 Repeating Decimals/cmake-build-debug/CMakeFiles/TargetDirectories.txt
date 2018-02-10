@@ -1,0 +1,3 @@
+C:/Users/Blue/CLionProjects/UVa202 Repeating Decimals/cmake-build-debug/CMakeFiles/UVa202_Repeating_Decimals.dir
+C:/Users/Blue/CLionProjects/UVa202 Repeating Decimals/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blue/CLionProjects/UVa202 Repeating Decimals/cmake-build-debug/CMakeFiles/rebuild_cache.dir

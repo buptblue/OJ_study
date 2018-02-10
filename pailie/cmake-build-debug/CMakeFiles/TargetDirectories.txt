@@ -1,0 +1,3 @@
+C:/Users/Blue/CLionProjects/pailie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Blue/CLionProjects/pailie/cmake-build-debug/CMakeFiles/pailie.dir
+C:/Users/Blue/CLionProjects/pailie/cmake-build-debug/CMakeFiles/edit_cache.dir

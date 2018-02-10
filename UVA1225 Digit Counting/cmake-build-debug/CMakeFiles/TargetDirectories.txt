@@ -1,0 +1,3 @@
+C:/Users/Blue/CLionProjects/UVA1225 Digit Counting/cmake-build-debug/CMakeFiles/UVA1225_Digit_Counting.dir
+C:/Users/Blue/CLionProjects/UVA1225 Digit Counting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blue/CLionProjects/UVA1225 Digit Counting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
